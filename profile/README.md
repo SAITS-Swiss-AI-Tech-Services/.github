@@ -1,12 +1,28 @@
-## Hi there 👋
+<!-- banner -->
+<div align="center">
 
-<!--
+<img src="https://avatars.githubusercontent.com/u/264957367?v=4" width="80" alt="SAITS" />
 
-**Here are some ideas to get you started:**
+# SAITS
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+<!-- middle -->
+<div align="center">
+
+We build AI workflows for enterprises in Switzerland and Germany.
+
+</div>
+
+---
+
+<!-- ending -->
+<div align="center">
+
+Follow us: [saits.ai](https://saits.ai/) · [LinkedIn](https://www.linkedin.com/company/saits-ai/)
+
+Contact: [hello@saits.ai](mailto:hello@saits.ai) · Zürich, Switzerland
+
+</div>
