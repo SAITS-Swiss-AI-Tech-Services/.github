@@ -1,28 +1,16 @@
-<!-- banner -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/264957367?v=4" width="80" alt="SAITS" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+  <img src="assets/logo-light.svg" alt="SAITS" width="220">
+</picture>
 
-# SAITS
+**Helping enterprises scale with AI systems and workflows.**
 
-</div>
+Interested? [Book a free 30-minute call](https://saits.ai/contact).
 
----
+[Website](https://saits.ai/) · [LinkedIn](https://www.linkedin.com/company/saits-ai/)
 
-<!-- middle -->
-<div align="center">
-
-We build AI workflows for enterprises in Switzerland and Germany.
-
-</div>
-
----
-
-<!-- ending -->
-<div align="center">
-
-Follow us: [saits.ai](https://saits.ai/) · [LinkedIn](https://www.linkedin.com/company/saits-ai/)
-
-Contact: [hello@saits.ai](mailto:hello@saits.ai) · Zürich, Switzerland
+<sub>Based in Zürich, Switzerland.</sub>
 
 </div>
